@@ -14,6 +14,7 @@ import { async } from "rxjs";
   styleUrls: ["./add-appointment.component.css"],
 })
 export class AddAppointmentComponent implements OnInit {
+  // gitpod check  
   // Variable declaration and initialization
   // Dependency Injection inside constructor
   validateClinic(clinicName : string) {
